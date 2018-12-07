@@ -10,7 +10,7 @@
 carpentry: "dc"
 
 # Overall title for pages.
-title: "Introduction to the Command Line for Genomics"
+title: "VIROPLANT seminar: the Command Line for Genomics"
 
 
 #------------------------------------------------------------
@@ -23,10 +23,10 @@ kind: "lesson"
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
-repository: <USERNAME>/<PROJECT>
+repository: mchiapello/2018-12-10_Turin_shell
 
 # Email address, no mailto:
-email: "team@carpentries.org"
+email: "marco.chiapello@ipsp.cnr.it"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
