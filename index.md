@@ -23,7 +23,3 @@ There are quite a few reasons to start learning about the shell:
 > AMI. Information on setting up an AMI and accessing the required data is provided on the [Genomics Workshop setup page](http://www.datacarpentry.org/genomics-workshop/setup.html).
 {: .prereq}
 
-> ## For Instructors
-> If you are teaching this lesson in a workshop, please see the 
-> [Instructor notes](guide/).
-{: .prereq}
