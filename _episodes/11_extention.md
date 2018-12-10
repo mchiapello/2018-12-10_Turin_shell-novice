@@ -20,7 +20,8 @@ The contig extetion has done by [MITObim](https://github.com/chrishah/MITObim).
 
 ## Procedure
 
-1. Run MITObim (only one iteration) `MITObim.pl ...`
+1. Run MITObim (only one iteration)    
+`MITObim.pl ...`
 
 1. Blast extended sequence against original sequence and add the extentions to the original sequence
 
